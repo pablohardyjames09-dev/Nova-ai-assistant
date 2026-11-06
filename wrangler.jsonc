@@ -1,0 +1,7 @@
+
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "nova-ai-assistant",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-06"
+}
